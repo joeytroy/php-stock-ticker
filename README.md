@@ -29,6 +29,6 @@ This section will be a break down of changes I made to [Mukesh Chapagain's](http
   - 5 year `range=5y`
   - max `range=my`
 
-4. The final change I made to the code was removing any `"` in the dumped data from the csv. This allowed for the URL link above to work properly as it was adding `%22` to the URL link causing issues to the chart.
+4. The final change I made to the [code](https://github.com/g60madman/php-stock-ticker/blob/master/pennystockticker.php#L94-L104) was removing any `"` in the dumped data from the csv. This allowed for the URL link above to work properly as it was adding `%22` to the URL link causing issues to the chart.
 
 If you have any questions regaurding this script feel free to contact me off my github email and I will assist where I can. As always, please enjoy!
