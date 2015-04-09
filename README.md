@@ -1,6 +1,13 @@
 # PHP Stock Ticker v.01
 This is a PHP web script for a live stock ticker which is based off [Mukesh Chapagain's](http://blog.chapagain.com.np/php-how-to-get-stock-quote-data-from-yahoo-finance-complete-code-and-tutorial/) work. To see a see my edited script running live please [click here](http://jt.bmsd.us/)
 
+
+# Install
+1. Download the [zip file](https://github.com/g60madman/php-stock-ticker/archive/master.zip)
+2. Extract the zip
+3. Make edits to the scrtipt,  please read [Mukesh Chapagain's](http://blog.chapagain.com.np/php-how-to-get-stock-quote-data-from-yahoo-finance-complete-code-and-tutorial/) website for more information
+4. Upload to your webhosting provider, or run local using [LAMP on Linux](https://bitnami.com/stack/lamp/installer), [WinLAMP for Windows](http://winlamp.sourceforge.net/), or [LAMP for OSX](http://jason.pureconcepts.net/2012/10/install-apache-php-mysql-mac-os-x/).
+
 # Changes & Documentation
 This section will be a break down of changes I made to [Mukesh Chapagain's](http://blog.chapagain.com.np/php-how-to-get-stock-quote-data-from-yahoo-finance-complete-code-and-tutorial/) work along with edits you can make to the sctipt to meet your personal needs.
 
