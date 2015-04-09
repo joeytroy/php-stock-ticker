@@ -19,7 +19,7 @@ This section will be a break down of changes I made to [Mukesh Chapagain's](http
 
 2. Besides the major formating with Data Tables I also cleaned up the class.yahoostock.php file so any stock name with the words  `, Inc` is being removed from the look up. I did this as it was creating a new column in the csv formating due to the `,`. While this is a dirty fix, it works for the needs of this script.
 
-3. In the pennystockticker.php file I added the symbol up to be a URL linking to a 5day chart using the following [code](https://github.com/g60madman/php-stock-ticker/blob/master/pennystockticker.php#L97). You can make changes to the `range=` section of the code change the age of the chart
+3. In the pennystockticker.php file I added the symbol up to be a URL linking to a 5day chart using the following [code](https://github.com/g60madman/php-stock-ticker/blob/master/pennystockticker.php#L97). You can make changes to the `range=` section of the code to change the age of the chart based on your personal preference.
   - 1 day `range=1d`
   - 5 day `range=5d`
   - 1 month `range=1m`
